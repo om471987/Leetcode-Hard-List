@@ -8,4 +8,4 @@
 23.	[Merge k Sorted Lists](https://leetcode.com/problems/regular-expression-matching/)
 25.	[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 30.	[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
-329. [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)  (Depth-first Search) (Topological Sort) (Memoization)
+329. [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)  (Depth-first Search, Topological Sort, Memoization) [Best known solution](https://github.com/om471987/Leetcode-Hard-List/blob/master/Matrix/longest-increasing-path.py)
